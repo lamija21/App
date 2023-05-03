@@ -1,5 +1,5 @@
 #info:
-If you're a student who struggles with managing your time, a Flutter Todo app can be a game-changer for you. With a Todo app, you can easily keep track of your assignments, projects, exams, and other important tasks all in one place. Plus, you can set reminders and due dates to ensure you never miss a deadline.
+If you're a student who struggles with managing your time, a Flutter Todo app can be a game-changer for you. With a Todo app, you can easily keep track of your assignments, projects, exams, and other important tasks all in one place. 
 
 Here's what your Flutter Todo app could include:
 
